@@ -12,7 +12,8 @@ html, body {
 
 header {
     background-color: black;
-    color-align: center;
+    color: white;
+    text-align: center;
 }
 
 header > h1 {
@@ -42,7 +43,7 @@ section {
 }
 
 section.normal {
-    backgroun-color: white;
+    background-color: white;
     color: black;
 }
 
